@@ -1,0 +1,40 @@
+_repo: A-Son-of-the-Ages-The-Reincarnations-and-Adventures-of-Scar-the-Link-A-Story-of-Man-From-the-__67590
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Johns, Craig
+    gutenberg_agent_id: '54317'
+    url: http://www.gutenberg.org/2009/agents/54317
+creator:
+  author:
+    agent_name: Waterloo, Stanley
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '2830'
+    url: http://www.gutenberg.org/2009/agents/2830
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_Waterloo
+description: ''
+gutenberg_issued: '2022-03-08'
+identifiers:
+  gutenberg: '67590'
+  lccn: '14005427'
+language: en
+pgterms:marc904: https://archive.org/details/sonoftheages00waterich/page/n7
+pgterms:marc905: 20190228135022waterloo
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Doubleday, Page & Company,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Prehistoric peoples -- Fiction'
+- GITenberg
+title: "A Son of the Ages: The Reincarnations and Adventures of Scar, the Link\r\n\
+  A Story of Man From the Beginning"
+url: http://www.gutenberg.org/ebooks/67590
